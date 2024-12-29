@@ -1,9 +1,9 @@
 # tabuada_por_loop
 A ideia do projeto é a partir de dois números inseridos pelo usuário o primeiro será submetido a uma mutiplicação até o segundo número, o resultado será impresso na tela mostrando cada um dos números da tabuada.
-As variávels são declaradas como tab e limite e devem ser colocadas no loop, sendo tab o numero que será multiplicado e limite o limite de vezes que o loop será executado.
+As variávels são declaradas como `tab` e `limite` e devem ser colocadas no loop, sendo `tab` o numero que será multiplicado e `limite` o limite de vezes que o loop será executado.
 
-Por se tratar de uma impressão, vamos criar em uma função void para esse processo recebendo duas variáveis, tab e limite.
-Onde o tab será o primeiro número e o limite o segundo número (e incluso na multiplicação).
+Por se tratar de uma impressão, vamos criar em uma função `void` para esse processo recebendo duas variáveis, `tab` e `limite`.
+Onde o `tab` será o primeiro número e o `limite` o segundo número (e incluso na multiplicação).
 Nele haverá um cout para imprimir o resultado da tabuada em um sistema de loopagem para garantir que a quantidade que o user pedir seja realizado.
 
 # Código do loop presente no void
